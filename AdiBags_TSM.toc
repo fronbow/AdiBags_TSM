@@ -1,4 +1,4 @@
-## Interface: 10200
+## Interface: 100205
 
 ## Title: AdiBags - Filter for TSM Groups
 ## Notes: Adds TSM groups to AdiBags.
